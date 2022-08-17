@@ -10,10 +10,18 @@ const input = document.getElementById('input');
 const check = document.getElementById('check');
 
 const kanjiObj = {
-    hito: "人",
-    shin: "新",
-    eki: "駅",
-    den: "電",
+    やま: "山",
+    かわ: "川",
+    た: "田",
+    び: "日",
+    つき: "月",
+    かわ: "川",
+    た: "田",
+    ひ: "火",
+    みず: "水",
+    き: "木",
+    かね: "金",
+    つち: "土",
 }
 
 const kanjiValue = Object.values(kanjiObj);
