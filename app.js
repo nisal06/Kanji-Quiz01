@@ -81,7 +81,7 @@ function displayCorrect(){
 }
 
 function displayIncorrect(){
-    kanji.innerHTML = "sine omae! baka!"
+    kanji.innerHTML = "හරියට ලියපං..මෝඩ පුකා!"
     kanji.style.color = "red";
     input.value = '';
     setTimeout(function(){
